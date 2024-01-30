@@ -152,5 +152,1516 @@
     "es": "Biólogo",
     "ar": "عالم الأحياء",
     "it": "Biologo"
+  },
+  {
+    "en": "Bookkeeper",
+    "fr": "Comptable",
+    "es": "Contable",
+    "ar": "محاسب",
+    "it": "Contabile"
+  },
+  {
+    "en": "Bricklayer",
+    "fr": "Maçon",
+    "es": "Albañil",
+    "ar": "بنّاء",
+    "it": "Muratore"
+  },
+  {
+    "en": "Broker",
+    "fr": "Courtier",
+    "es": "Corredor",
+    "ar": "وسيط",
+    "it": "Intermediario"
+  },
+  {
+    "en": "Butcher",
+    "fr": "Boucher",
+    "es": "Carnicero",
+    "ar": "جزار",
+    "it": "Macellaio"
+  },
+   {
+    "en": "Carpenter",
+    "fr": "Charpentier",
+    "es": "Carpintero",
+    "ar": "نجار",
+    "it": "Falegname"
+  },
+  {
+    "en": "Cartographer",
+    "fr": "Cartographe",
+    "es": "Cartógrafo",
+    "ar": "خرائطي",
+    "it": "Cartografo"
+  },
+  {
+    "en": "Cashier",
+    "fr": "Caissier",
+    "es": "Cajero",
+    "ar": "أمين الصندوق",
+    "it": "Cassiere"
+  },
+  {
+    "en": "Chef",
+    "fr": "Chef",
+    "es": "Chef",
+    "ar": "طاه",
+    "it": "Chef"
+  },
+  {
+    "en": "Chemist",
+    "fr": "Chimiste",
+    "es": "Químico",
+    "ar": "كيميائي",
+    "it": "Chimico"
+  },
+  {
+    "en": "Childcare Worker",
+    "fr": "Garde d'enfants",
+    "es": "Cuidador de niños",
+    "ar": "مربي أطفال",
+    "it": "Addetto all'assistenza infantile"
+  },
+  {
+    "en": "Chiropractor",
+    "fr": "Chiropracteur",
+    "es": "Quiropráctico",
+    "ar": "معالج بالتدليك العظمي",
+    "it": "Chiropratico"
+  },
+  {
+    "en": "Civil Engineer",
+    "fr": "Ingénieur civil",
+    "es": "Ingeniero civil",
+    "ar": "مهندس مدني",
+    "it": "Ingegnere civile"
+  },
+  {
+    "en": "Cleaner",
+    "fr": "Nettoyeur",
+    "es": "Limpiador",
+    "ar": "عامل تنظيف",
+    "it": "Addetto alle pulizie"
+  },
+  {
+    "en": "Clinical Psychologist",
+    "fr": "Psychologue clinicien",
+    "es": "Psicólogo clínico",
+    "ar": "عالم نفس عيادي",
+    "it": "Psicologo clinico"
+  },
+  {
+    "en": "Cobbler",
+    "fr": "Cordonnier",
+    "es": "Zapatero",
+    "ar": "إصلاح الأحذية",
+    "it": "Calzolaio"
+  },
+  {
+    "en": "Coder",
+    "fr": "Programmeur",
+    "es": "Programador",
+    "ar": "مبرمج",
+    "it": "Programmatore"
+  },
+  {
+    "en": "Cook",
+    "fr": "Cuisinier",
+    "es": "Cocinero",
+    "ar": "طباخ",
+    "it": "Cuoco"
+  },
+  {
+    "en": "Cosmetologist",
+    "fr": "Cosmétologue",
+    "es": "Cosmetólogo",
+    "ar": "أخصائي تجميل",
+    "it": "Cosmetologo"
+  },
+  {
+    "en": "Counselor",
+    "fr": "Conseiller",
+    "es": "Consejero",
+    "ar": "مستشار",
+    "it": "Consulente"
+  },
+  {
+    "en": "Curator",
+    "fr": "Conservateur",
+    "es": "Curador",
+    "ar": "قيّم",
+    "it": "Curatore"
+  },
+  {
+    "en": "Dancer",
+    "fr": "Danseur",
+    "es": "Bailarín",
+    "ar": "راقص",
+    "it": "Danzatore"
+  },
+  {
+    "en": "Dental Assistant",
+    "fr": "Assistant dentaire",
+    "es": "Asistente dental",
+    "ar": "مساعد طبيب أسنان",
+    "it": "Assistente dentale"
+  },
+  {
+    "en": "Dental Hygienist",
+    "fr": "Hygiéniste dentaire",
+    "es": "Higienista dental",
+    "ar": "أخصائي صحة الفم والأسنان",
+    "it": "Igienista dentale"
+  },
+  {
+    "en": "Dentist",
+    "fr": "Dentiste",
+    "es": "Dentista",
+    "ar": "طبيب أسنان",
+    "it": "Dentista"
+  },
+  {
+    "en": "Dermatologist",
+    "fr": "Dermatologue",
+    "es": "Dermatólogo",
+    "ar": "طبيب جلدية",
+    "it": "Dermatologo"
+  },
+  {
+    "en": "Detective",
+    "fr": "Détective",
+    "es": "Detective",
+    "ar": "محقق",
+    "it": "Detective"
+  },
+  {
+    "en": "Dietician",
+    "fr": "Diététicien",
+    "es": "Dietista",
+    "ar": "أخصائي تغذية",
+    "it": "Dietista"
+  },
+  {
+    "en": "Director",
+    "fr": "Directeur",
+    "es": "Director",
+    "ar": "مدير",
+    "it": "Direttore"
+  },
+  {
+    "en": "Dishwasher",
+    "fr": "Lave-vaisselle",
+    "es": "Lavaplatos",
+    "ar": "غسالة الصحون",
+    "it": "Lavapiatti"
+  },
+  {
+    "en": "Dispatcher",
+    "fr": "Répartiteur",
+    "es": "Despachador",
+    "ar": "مرسل",
+    "it": "Disponente"
+  },
+  {
+    "en": "Doctor",
+    "fr": "Médecin",
+    "es": "Doctor",
+    "ar": "طبيب",
+    "it": "Dottore"
+  },
+  {
+    "en": "Dressmaker",
+    "fr": "Couturier",
+    "es": "Modista",
+    "ar": "خياط",
+    "it": "Sarta"
+  },
+  {
+    "en": "Economist",
+    "fr": "Économiste",
+    "es": "Economista",
+    "ar": "اقتصادي",
+    "it": "Economista"
+  },
+  {
+    "en": "Editor",
+    "fr": "Éditeur",
+    "es": "Editor",
+    "ar": "محرر",
+    "it": "Editore"
+  },
+   {
+    "en": "Electrician",
+    "fr": "Électricien",
+    "es": "Electricista",
+    "ar": "كهربائي",
+    "it": "Elettricista"
+  },
+  {
+    "en": "Embryologist",
+    "fr": "Embryologiste",
+    "es": "Embriólogo",
+    "ar": "أخصائي أجنة",
+    "it": "Embriologo"
+  },
+  {
+    "en": "Engineer",
+    "fr": "Ingénieur",
+    "es": "Ingeniero",
+    "ar": "مهندس",
+    "it": "Ingegnere"
+  },
+  {
+    "en": "Entertainer",
+    "fr": "Artiste",
+    "es": "Animador",
+    "ar": "منتج ترفيه",
+    "it": "Intrattenitore"
+  },
+  {
+    "en": "Entrepreneur",
+    "fr": "Entrepreneur",
+    "es": "Empresario",
+    "ar": "ريادي",
+    "it": "Imprenditore"
+  },
+  {
+    "en": "Environmental Scientist",
+    "fr": "Scientifique de l'environnement",
+    "es": "Científico ambiental",
+    "ar": "عالم بيئي",
+    "it": "Scienziato ambientale"
+  },
+  {
+    "en": "Event Planner",
+    "fr": "Organisateur d'événements",
+    "es": "Organizador de eventos",
+    "ar": "منظم فعاليات",
+    "it": "Organizzatore di eventi"
+  },
+  {
+    "en": "Executive",
+    "fr": "Cadre",
+    "es": "Ejecutivo",
+    "ar": "تنفيذي",
+    "it": "Esecutivo"
+  },{
+    "en": "Farmer",
+    "fr": "Agriculteur",
+    "es": "Granjero",
+    "ar": "مزارع",
+    "it": "Agricoltore"
+  },
+  {
+    "en": "Fashion Designer",
+    "fr": "Créateur de mode",
+    "es": "Diseñador de moda",
+    "ar": "مصمم أزياء",
+    "it": "Stilista di moda"
+  },
+  {
+    "en": "Ferryboat Captain",
+    "fr": "Capitaine de ferry",
+    "es": "Capitán de ferry",
+    "ar": "قبطان العبارة",
+    "it": "Capitano di traghetto"
+  },
+  {
+    "en": "Film Director",
+    "fr": "Réalisateur",
+    "es": "Director de cine",
+    "ar": "مخرج سينمائي",
+    "it": "Regista"
+  },
+  {
+    "en": "Financial Advisor",
+    "fr": "Conseiller financier",
+    "es": "Asesor financiero",
+    "ar": "مستشار مالي",
+    "it": "Consulente finanziario"
+  },
+  {
+    "en": "Firefighter",
+    "fr": "Pompier",
+    "es": "Bombero",
+    "ar": "رجل اطفاء",
+    "it": "Pompiere"
+  },
+  {
+    "en": "Fisherman",
+    "fr": "Pêcheur",
+    "es": "Pescador",
+    "ar": "صياد",
+    "it": "Pescatore"
+  },
+  {
+    "en": "Fitness Instructor",
+    "fr": "Instructeur de fitness",
+    "es": "Instructor de fitness",
+    "ar": "مدرب لياقة",
+    "it": "Istruttore di fitness"
+  },
+  {
+    "en": "Flight Attendant",
+    "fr": "Hôtesse de l'air",
+    "es": "Auxiliar de vuelo",
+    "ar": "مضيف طيران",
+    "it": "Assistente di volo"
+  },
+  {
+    "en": "Florist",
+    "fr": "Fleuriste",
+    "es": "Florista",
+    "ar": "بائع الزهور",
+    "it": "Fiorista"
+  },
+  {
+    "en": "Forensic Scientist",
+    "fr": "Scientifique forensique",
+    "es": "Científico forense",
+    "ar": "عالم الطب الشرعي",
+    "it": "Scienziato forense"
+  },
+  {
+    "en": "Forester",
+    "fr": "Forestier",
+    "es": "Forestal",
+    "ar": "حراجي",
+    "it": "Forestale"
+  },
+  {
+    "en": "Freelancer",
+    "fr": "Freelance",
+    "es": "Freelance",
+    "ar": "مستقل",
+    "it": "Libero professionista"
+  },
+  {
+    "en": "Fundraiser",
+    "fr": "Collecteur de fonds",
+    "es": "Recaudador de fondos",
+    "ar": "جامع تبرعات",
+    "it": "Raccoglitore di fondi"
+  },
+  {
+    "en": "Game Developer",
+    "fr": "Développeur de jeux",
+    "es": "Desarrollador de juegos",
+    "ar": "مطور ألعاب",
+    "it": "Sviluppatore di giochi"
+  },
+  {
+    "en": "Game Tester",
+    "fr": "Testeur de jeux",
+    "es": "Probador de juegos",
+    "ar": "مختبر الألعاب",
+    "it": "Tester di giochi"
+  },
+   {
+    "en": "Gardener",
+    "fr": "Jardinier",
+    "es": "Jardinero",
+    "ar": "بستاني",
+    "it": "Giardiniere"
+  },
+  {
+    "en": "Geographer",
+    "fr": "Géographe",
+    "es": "Geógrafo",
+    "ar": "جغرافي",
+    "it": "Geografo"
+  },
+  {
+    "en": "Geologist",
+    "fr": "Géologue",
+    "es": "Geólogo",
+    "ar": "جيولوجي",
+    "it": "Geologo"
+  },
+   {
+    "en": "Graphic Designer",
+    "fr": "Graphiste",
+    "es": "Diseñador gráfico",
+    "ar": "مصمم جرافيك",
+    "it": "Grafico"
+  },
+   {
+    "en": "Gynecologist",
+    "fr": "Gynécologue",
+    "es": "Ginecólogo",
+    "ar": "طبيب نسائي",
+    "it": "Ginecologo"
+  },
+  {
+    "en": "Hairdresser",
+    "fr": "Coiffeur",
+    "es": "Peluquero",
+    "ar": "حلاق",
+    "it": "Parrucchiere"
+  },
+  {
+    "en": "Health Inspector",
+    "fr": "Inspecteur sanitaire",
+    "es": "Inspector de salud",
+    "ar": "مفتش صحي",
+    "it": "Ispettore sanitario"
+  },
+  {
+    "en": "Historian",
+    "fr": "Historien",
+    "es": "Historiador",
+    "ar": "مؤرخ",
+    "it": "Storico"
+  },
+  {
+    "en": "Home Health Aide",
+    "fr": "Aide à domicile",
+    "es": "Auxiliar de salud en el hogar",
+    "ar": "مساعد الرعاية المنزلية",
+    "it": "Assistente sanitario domiciliare"
+  },
+  {
+    "en": "Horticulturist",
+    "fr": "Horticulteur",
+    "es": "Horticultor",
+    "ar": "بستاني",
+    "it": "Orticoltore"
+  },
+  {
+    "en": "Hotel Manager",
+    "fr": "Directeur d'hôtel",
+    "es": "Gerente de hotel",
+    "ar": "مدير فندق",
+    "it": "Direttore d'albergo"
+  },
+  {
+    "en": "Human Resources Manager",
+    "fr": "Responsable des ressources humaines",
+    "es": "Gerente de recursos humanos",
+    "ar": "مدير الموارد البشرية",
+    "it": "Responsabile delle risorse umane"
+  },
+  {
+    "en": "Illustrator",
+    "fr": "Illustrateur",
+    "es": "Ilustrador",
+    "ar": "رسام",
+    "it": "Illustratore"
+  },
+  {
+    "en": "Importer",
+    "fr": "Importateur",
+    "es": "Importador",
+    "ar": "مستورد",
+    "it": "Importatore"
+  },
+  {
+    "en": "Industrial Designer",
+    "fr": "Designer industriel",
+    "es": "Diseñador industrial",
+    "ar": "مصمم صناعي",
+    "it": "Designer industriale"
+  },
+  {
+    "en": "Insurance Agent",
+    "fr": "Agent d'assurance",
+    "es": "Agente de seguros",
+    "ar": "وكيل تأمين",
+    "it": "Agente di assicurazione"
+  },
+  {
+    "en": "Interpreter",
+    "fr": "Interprète",
+    "es": "Intérprete",
+    "ar": "مترجم",
+    "it": "Interprete"
+  },
+  {
+    "en": "Investigator",
+    "fr": "Enquêteur",
+    "es": "Investigador",
+    "ar": "محقق",
+    "it": "Investigatore"
+  },
+  {
+    "en": "IT Specialist",
+    "fr": "Spécialiste IT",
+    "es": "Especialista en TI",
+    "ar": "أخصائي تقنية المعلومات",
+    "it": "Specialista IT"
+  },
+  {
+    "en": "Janitor",
+    "fr": "Concierge",
+    "es": "Conserje",
+    "ar": "حارس",
+    "it": "Bidello"
+  },
+  {
+    "en": "Jeweler",
+    "fr": "Bijoutier",
+    "es": "Joyería",
+    "ar": "صائغ",
+    "it": "Gioielliere"
+  },
+  {
+    "en": "Journalist",
+    "fr": "Journaliste",
+    "es": "Periodista",
+    "ar": "صحفي",
+    "it": "Giornalista"
+  },
+  {
+    "en": "Judge",
+    "fr": "Juge",
+    "es": "Juez",
+    "ar": "قاض",
+    "it": "Giudice"
+  },
+  {
+    "en": "Landscaper",
+    "fr": "Paysagiste",
+    "es": "Paisajista",
+    "ar": "مصمم الحدائق",
+    "it": "Paesaggista"
+  },
+  {
+    "en": "Lawyer",
+    "fr": "Avocat",
+    "es": "Abogado",
+    "ar": "محام",
+    "it": "Avvocato"
+  },
+  {
+    "en": "Librarian",
+    "fr": "Bibliothécaire",
+    "es": "Bibliotecario",
+    "ar": "أمين المكتبة",
+    "it": "Bibliotecario"
+  },
+  {
+    "en": "Life Coach",
+    "fr": "Coach de vie",
+    "es": "Coach de vida",
+    "ar": "مدرب حياة",
+    "it": "Coach di vita"
+  },
+  {
+    "en": "Linguist",
+    "fr": "Linguiste",
+    "es": "Lingüista",
+    "ar": "لغوي",
+    "it": "Linguista"
+  },
+    {
+    "en": "Lobbyist",
+    "fr": "Lobbyiste",
+    "es": "Lobbista",
+    "ar": "مساعد تشريعي",
+    "it": "Lobbista"
+  },
+  {
+    "en": "Locksmith",
+    "fr": "Serrurier",
+    "es": "Cerrajero",
+    "ar": "صانع الأقفال",
+    "it": "Fabbro"
+  },
+  {
+    "en": "Machinist",
+    "fr": "Machiniste",
+    "es": "Maquinista",
+    "ar": "ميكانيكي",
+    "it": "Macchinista"
+  },
+  {
+    "en": "Magician",
+    "fr": "Magicien",
+    "es": "Mago",
+    "ar": "ساحر",
+    "it": "Mago"
+  },
+  {
+    "en": "Makeup Artist",
+    "fr": "Maquilleur",
+    "es": "Maquillador",
+    "ar": "خبير تجميل",
+    "it": "Truccatore"
+  },
+  {
+    "en": "Management Consultant",
+    "fr": "Consultant en gestion",
+    "es": "Consultor de gestión",
+    "ar": "مستشار إداري",
+    "it": "Consulente di gestione"
+  },
+  {
+    "en": "Manager",
+    "fr": "Directeur",
+    "es": "Gerente",
+    "ar": "مدير",
+    "it": "Gestore"
+  },
+  {
+    "en": "Marine Biologist",
+    "fr": "Biologiste marin",
+    "es": "Biólogo marino",
+    "ar": "عالم أحياء بحرية",
+    "it": "Biologo marino"
+  },
+  {
+    "en": "Market Researcher",
+    "fr": "Chercheur de marché",
+    "es": "Investigador de mercado",
+    "ar": "باحث سوقي",
+    "it": "Ricercatore di mercato"
+  },
+  {
+    "en": "Marketing Manager",
+    "fr": "Responsable marketing",
+    "es": "Gerente de marketing",
+    "ar": "مدير التسويق",
+    "it": "Responsabile marketing"
+  },
+  {
+    "en": "Massage Therapist",
+    "fr": "Masseur",
+    "es": "Masajista",
+    "ar": "معالج تدليك",
+    "it": "Massaggiatore"
+  },
+  {
+    "en": "Mathematician",
+    "fr": "Mathématicien",
+    "es": "Matemático",
+    "ar": "رياضي",
+    "it": "Matematico"
+  },
+  {
+    "en": "Mechanic",
+    "fr": "Mécanicien",
+    "es": "Mecánico",
+    "ar": "ميكانيكي",
+    "it": "Meccanico"
+  },
+  {
+    "en": "Medical Assistant",
+    "fr": "Assistant médical",
+    "es": "Asistente médico",
+    "ar": "مساعد طبي",
+    "it": "Assistente medico"
+  },
+  {
+    "en": "Medical Illustrator",
+    "fr": "Illustrateur médical",
+    "es": "Ilustrador médico",
+    "ar": "رسام طبي",
+    "it": "Illustratore medico"
+  },
+  {
+    "en": "Medical Transcriptionist",
+    "fr": "Transcripteur médical",
+    "es": "Transcriptor médico",
+    "ar": "محرر تقارير طبية",
+    "it": "Trascrittore medico"
+  },
+  {
+    "en": "Meteorologist",
+    "fr": "Météorologue",
+    "es": "Meteorólogo",
+    "ar": "راصد جوي",
+    "it": "Meteorologo"
+  },
+  {
+    "en": "Midwife",
+    "fr": "Sage-femme",
+    "es": "Partera",
+    "ar": "قابلة",
+    "it": "Ostetrica"
+  },
+  {
+    "en": "Military Officer",
+    "fr": "Officier militaire",
+    "es": "Oficial militar",
+    "ar": "ضابط عسكري",
+    "it": "Ufficiale militare"
+  },
+  {
+    "en": "Model",
+    "fr": "Modèle",
+    "es": "Modelo",
+    "ar": "عارض",
+    "it": "Modello"
+  },
+  {
+    "en": "Motivational Speaker",
+    "fr": "Conférencier motivant",
+    "es": "Orador motivacional",
+    "ar": "متحدث تحفيزي",
+    "it": "Oratore motivazionale"
+  },
+  {
+    "en": "Movie Producer",
+    "fr": "Producteur de cinéma",
+    "es": "Productor de cine",
+    "ar": "منتج سينمائي",
+    "it": "Produttore cinematografico"
+  },
+  {
+    "en": "Music Teacher",
+    "fr": "Professeur de musique",
+    "es": "Profesor de música",
+    "ar": "معلم موسيقى",
+    "it": "Insegnante di musica"
+  },
+  {
+    "en": "Musician",
+    "fr": "Musicien",
+    "es": "Músico",
+    "ar": "موسيقي",
+    "it": "Musicista"
+  },
+  {
+    "en": "Neurologist",
+    "fr": "Neurologue",
+    "es": "Neurólogo",
+    "ar": "طبيب أعصاب",
+    "it": "Neurologo"
+  },
+  {
+    "en": "Nuclear Engineer",
+    "fr": "Ingénieur nucléaire",
+    "es": "Ingeniero nuclear",
+    "ar": "مهندس نووي",
+    "it": "Ingegnere nucleare"
+  },
+  {
+    "en": "Nurse",
+    "fr": "Infirmier",
+    "es": "Enfermero",
+    "ar": "ممرض",
+    "it": "Infermiere"
+  },
+  {
+    "en": "Nutritionist",
+    "fr": "Nutritionniste",
+    "es": "Nutricionista",
+    "ar": "أخصائي تغذية",
+    "it": "Nutrizionista"
+  },
+  {
+    "en": "Occupational Therapist",
+    "fr": "Ergothérapeute",
+    "es": "Terapeuta ocupacional",
+    "ar": "معالج مهني",
+    "it": "Terapista occupazionale"
+  },
+  {
+    "en": "Oceanographer",
+    "fr": "Océanographe",
+    "es": "Oceanógrafo",
+    "ar": "عالم المحيطات",
+    "it": "Oceanografo"
+  },
+  {
+    "en": "Office Clerk",
+    "fr": "Employé de bureau",
+    "es": "Oficinista",
+    "ar": "موظف مكتب",
+    "it": "Impiegato d'ufficio"
+  },
+  {
+    "en": "Opera Singer",
+    "fr": "Chanteur d'opéra",
+    "es": "Cantante de ópera",
+    "ar": "مغني أوبرا",
+    "it": "Cantante lirico"
+  },
+  {
+    "en": "Optician",
+    "fr": "Opticien",
+    "es": "Óptico",
+    "ar": "بائع نظارات",
+    "it": "Ottico"
+  },
+  {
+    "en": "Optometrist",
+    "fr": "Optométriste",
+    "es": "Optometrista",
+    "ar": "أخصائي بصريات",
+    "it": "Optometrista"
+  },
+  {
+    "en": "Orthodontist",
+    "fr": "Orthodontiste",
+    "es": "Ortodoncista",
+    "ar": "طبيب تقويم الأسنان",
+    "it": "Ortodontista"
+  },
+  {
+    "en": "Painter",
+    "fr": "Peintre",
+    "es": "Pintor",
+    "ar": "رسام",
+    "it": "Pittore"
+  },
+  {
+    "en": "Park Ranger",
+    "fr": "Garde forestier",
+    "es": "Guardabosques",
+    "ar": "حارس حديقة",
+    "it": "Guardiaparco"
+  },
+  {
+    "en": "Paralegal",
+    "fr": "Parajuriste",
+    "es": "Paralegal",
+    "ar": "مساعد قانوني",
+    "it": "Paralegale"
+  },
+  {
+    "en": "Paramedic",
+    "fr": "Paramédical",
+    "es": "Paramédico",
+    "ar": "مسعف",
+    "it": "Paramedico"
+  },
+  {
+    "en": "Pediatrician",
+    "fr": "Pédiatre",
+    "es": "Pediatra",
+    "ar": "طبيب أطفال",
+    "it": "Pediatra"
+  },
+  {
+    "en": "Personal Trainer",
+    "fr": "Coach personnel",
+    "es": "Entrenador personal",
+    "ar": "مدرب شخصي",
+    "it": "Personal trainer"
+  },
+  {
+    "en": "Pet Groomer",
+    "fr": "Toiletteur pour animaux",
+    "es": "Peluquero de mascotas",
+    "ar": "مزين الحيوانات الأليفة",
+    "it": "Toelettatore per animali domestici"
+  },
+  {
+    "en": "Pharmacist",
+    "fr": "Pharmacien",
+    "es": "Farmacéutico",
+    "ar": "صيدلي",
+    "it": "Farmacista"
+  },
+  {
+    "en": "Phlebotomist",
+    "fr": "Phlébotomiste",
+    "es": "Flebotomista",
+    "ar": "فني سحب دم",
+    "it": "Flebotomista"
+  },
+  {
+    "en": "Photographer",
+    "fr": "Photographe",
+    "es": "Fotógrafo",
+    "ar": "مصور",
+    "it": "Fotografo"
+  },
+  {
+    "en": "Physical Therapist",
+    "fr": "Physiothérapeute",
+    "es": "Fisioterapeuta",
+    "ar": "علاج طبيعي",
+    "it": "Fisioterapista"
+  },
+  {
+    "en": "Physicist",
+    "fr": "Physicien",
+    "es": "Físico",
+    "ar": "فيزيائي",
+    "it": "Fisico"
+  },
+  {
+    "en": "Pianist",
+    "fr": "Pianiste",
+    "es": "Pianista",
+    "ar": "عازف البيانو",
+    "it": "Pianista"
+  },
+  {
+    "en": "Pilot",
+    "fr": "Pilote",
+    "es": "Piloto",
+    "ar": "طيار",
+    "it": "Pilota"
+  },
+  {
+    "en": "Plumber",
+    "fr": "Plombier",
+    "es": "Fontanero",
+    "ar": "سباك",
+    "it": "Idraulico"
+  },
+  {
+    "en": "Police Officer",
+    "fr": "Policier",
+    "es": "Policía",
+    "ar": "شرطي",
+    "it": "Poliziotto"
+  },
+  {
+    "en": "Political Analyst",
+    "fr": "Analyste politique",
+    "es": "Analista político",
+    "ar": "محلل سياسي",
+    "it": "Analista politico"
+  },
+  {
+    "en": "Politician",
+    "fr": "Politicien",
+    "es": "Político",
+    "ar": "سياسي",
+    "it": "Politico"
+  },
+  {
+    "en": "Postal Worker",
+    "fr": "Facteur",
+    "es": "Trabajador postal",
+    "ar": "موظف بريد",
+    "it": "Impiegato postale"
+  },
+  {
+    "en": "Preschool Teacher",
+    "fr": "Enseignant de maternelle",
+    "es": "Profesor de preescolar",
+    "ar": "معلم رياض الأطفال",
+    "it": "Insegnante di scuola materna"
+  },
+  {
+    "en": "Principal",
+    "fr": "Directeur",
+    "es": "Director",
+    "ar": "مدير المدرسة",
+    "it": "Preside"
+  },
+  {
+    "en": "Private Investigator",
+    "fr": "Enquêteur privé",
+    "es": "Investigador privado",
+    "ar": "محقق خاص",
+    "it": "Investigatore privato"
+  },
+  {
+    "en": "Product Manager",
+    "fr": "Chef de produit",
+    "es": "Gerente de producto",
+    "ar": "مدير المنتج",
+    "it": "Responsabile del prodotto"
+  },
+  {
+    "en": "Professor",
+    "fr": "Professeur",
+    "es": "Profesor",
+    "ar": "أستاذ",
+    "it": "Professore"
+  },
+   {
+    "en": "Programmer",
+    "fr": "Programmeur",
+    "es": "Programador",
+    "ar": "مبرمج",
+    "it": "Programmatore"
+  },
+  {
+    "en": "Project Manager",
+    "fr": "Chef de projet",
+    "es": "Gerente de proyecto",
+    "ar": "مدير مشروع",
+    "it": "Responsabile del progetto"
+  },
+  {
+    "en": "Psychiatrist",
+    "fr": "Psychiatre",
+    "es": "Psiquiatra",
+    "ar": "طبيب نفسي",
+    "it": "Psichiatra"
+  },
+  {
+    "en": "Psychologist",
+    "fr": "Psychologue",
+    "es": "Psicólogo",
+    "ar": "عالم نفس",
+    "it": "Psicologo"
+  },
+  {
+    "en": "Public Relations Specialist",
+    "fr": "Spécialiste des relations publiques",
+    "es": "Especialista en relaciones públicas",
+    "ar": "أخصائي علاقات عامة",
+    "it": "Specialista in relazioni pubbliche"
+  },
+  {
+    "en": "Publisher",
+    "fr": "Éditeur",
+    "es": "Editor",
+    "ar": "ناشر",
+    "it": "Editore"
+  },
+  {
+    "en": "Radiologist",
+    "fr": "Radiologue",
+    "es": "Radiólogo",
+    "ar": "أخصائي الأشعة",
+    "it": "Radiologo"
+  },
+  {
+    "en": "Real Estate Agent",
+    "fr": "Agent immobilier",
+    "es": "Agente inmobiliario",
+    "ar": "وكيل عقارات",
+    "it": "Agente immobiliare"
+  },
+  {
+    "en": "Receptionist",
+    "fr": "Réceptionniste",
+    "es": "Recepcionista",
+    "ar": "موظف استقبال",
+    "it": "Receptionist"
+  },
+  {
+    "en": "Referee",
+    "fr": "Arbitre",
+    "es": "Árbitro",
+    "ar": "حكم",
+    "it": "Arbitro"
+  },
+  {
+    "en": "Registered Nurse",
+    "fr": "Infirmière",
+    "es": "Enfermera registrada",
+    "ar": "ممرضة مسجلة",
+    "it": "Infermiera"
+  },
+  {
+    "en": "Research Assistant",
+    "fr": "Assistant de recherche",
+    "es": "Asistente de investigación",
+    "ar": "مساعد بحث",
+    "it": "Assistente di ricerca"
+  },
+  {
+    "en": "Research Scientist",
+    "fr": "Chercheur scientifique",
+    "es": "Científico investigador",
+    "ar": "عالم بحث",
+    "it": "Ricercatore scientifico"
+  },
+  {
+    "en": "Restaurant Owner",
+    "fr": "Propriétaire de restaurant",
+    "es": "Dueño de restaurante",
+    "ar": "صاحب مطعم",
+    "it": "Proprietario di ristorante"
+  },
+  {
+    "en": "Retail Salesperson",
+    "fr": "Vendeur",
+    "es": "Vendedor minorista",
+    "ar": "بائع تجزئة",
+    "it": "Commesso"
+  },
+  {
+    "en": "Robotics Engineer",
+    "fr": "Ingénieur en robotique",
+    "es": "Ingeniero en robótica",
+    "ar": "مهندس روبوتات",
+    "it": "Ingegnere robotico"
+  },
+  {
+    "en": "Sailor",
+    "fr": "Marin",
+    "es": "Marinero",
+    "ar": "بحار",
+    "it": "Marinaio"
+  },
+  {
+    "en": "Sales Manager",
+    "fr": "Directeur des ventes",
+    "es": "Gerente de ventas",
+    "ar": "مدير مبيعات",
+    "it": "Direttore vendite"
+  },
+  {
+    "en": "Scientist",
+    "fr": "Scientifique",
+    "es": "Científico",
+    "ar": "عالم",
+    "it": "Scienziato"
+  },
+  {
+    "en": "Screenwriter",
+    "fr": "Scénariste",
+    "es": "Guionista",
+    "ar": "كاتب سيناريو",
+    "it": "Sceneggiatore"
+  },
+  {
+    "en": "Sculptor",
+    "fr": "Sculpteur",
+    "es": "Escultor",
+    "ar": "نحات",
+    "it": "Scultore"
+  },
+  {
+    "en": "Secretary",
+    "fr": "Secrétaire",
+    "es": "Secretario",
+    "ar": "سكرتير",
+    "it": "Segretario"
+  },
+  {
+    "en": "Security Guard",
+    "fr": "Agent de sécurité",
+    "es": "Guardia de seguridad",
+    "ar": "حارس أمن",
+    "it": "Guardia di sicurezza"
+  },
+  {
+    "en": "Set Designer",
+    "fr": "Concepteur de décors",
+    "es": "Diseñador de escenografía",
+    "ar": "مصمم مجموعات",
+    "it": "Scenografo"
+  },
+  {
+    "en": "Sewer",
+    "fr": "Couturière",
+    "es": "Costurera",
+    "ar": "خياطة",
+    "it": "Sarta"
+  },
+  {
+    "en": "Singer",
+    "fr": "Chanteur",
+    "es": "Cantante",
+    "ar": "مغني",
+    "it": "Cantante"
+  },
+  {
+    "en": "Social Media Manager",
+    "fr": "Responsable des médias sociaux",
+    "es": "Gerente de redes sociales",
+    "ar": "مدير وسائل الإعلام الاجتماعية",
+    "it": "Responsabile social media"
+  },
+  {
+    "en": "Social Worker",
+    "fr": "Travailleur social",
+    "es": "Trabajador social",
+    "ar": "أخصائي اجتماعي",
+    "it": "Assistente sociale"
+  },
+  {
+    "en": "Sociologist",
+    "fr": "Sociologue",
+    "es": "Sociólogo",
+    "ar": "اجتماعي",
+    "it": "Sociologo"
+  },
+  {
+    "en": "Software Developer",
+    "fr": "Développeur de logiciels",
+    "es": "Desarrollador de software",
+    "ar": "مطور البرمجيات",
+    "it": "Sviluppatore di software"
+  },
+  {
+    "en": "Soil Scientist",
+    "fr": "Scientifique du sol",
+    "es": "Científico del suelo",
+    "ar": "عالم التربة",
+    "it": "Scienziato del suolo"
+  },
+  {
+    "en": "Solicitor",
+    "fr": "Avocat",
+    "es": "Abogado",
+    "ar": "محام",
+    "it": "Avvocato"
+  },
+  {
+    "en": "Speech Therapist",
+    "fr": "Orthophoniste",
+    "es": "Logopeda",
+    "ar": "أخصائي نطق",
+    "it": "Logopedista"
+  },
+  {
+    "en": "Sports Coach",
+    "fr": "Entraîneur sportif",
+    "es": "Entrenador deportivo",
+    "ar": "مدرب رياضي",
+    "it": "Allenatore sportivo"
+  },
+  {
+    "en": "Statistician",
+    "fr": "Statisticien",
+    "es": "Estadístico",
+    "ar": "إحصائي",
+    "it": "Statistico"
+  },
+  {
+    "en": "Stockbroker",
+    "fr": "Courtier en bourse",
+    "es": "Corredor de bolsa",
+    "ar": "سمسار بورصة",
+    "it": "Agente di cambio"
+  },
+  {
+    "en": "Stonemason",
+    "fr": "Tailleur de pierre",
+    "es": "Cantero",
+    "ar": "بناء الحجر",
+    "it": "Scalpellino"
+  },
+  {
+    "en": "Street Artist",
+    "fr": "Artiste de rue",
+    "es": "Artista callejero",
+    "ar": "فنان شوارع",
+    "it": "Artista di strada"
+  },
+  {
+    "en": "Surgeon",
+    "fr": "Chirurgien",
+    "es": "Cirujano",
+    "ar": "جراح",
+    "it": "Chirurgo"
+  },
+  {
+    "en": "Surveyor",
+    "fr": "Géomètre",
+    "es": "Topógrafo",
+    "ar": "مساح",
+    "it": "Geometra"
+  },
+  {
+    "en": "System Analyst",
+    "fr": "Analyste système",
+    "es": "Analista de sistemas",
+    "ar": "محلل نظم",
+    "it": "Analista di sistema"
+  },
+   {
+    "en": "Tailor",
+    "fr": "Tailleur",
+    "es": "Sastre",
+    "ar": "خياط",
+    "it": "Sarto"
+  },
+  {
+    "en": "Tax Consultant",
+    "fr": "Conseiller fiscal",
+    "es": "Asesor fiscal",
+    "ar": "مستشار ضريبي",
+    "it": "Consulente fiscale"
+  },
+  {
+    "en": "Taxi Driver",
+    "fr": "Chauffeur de taxi",
+    "es": "Taxista",
+    "ar": "سائق سيارة أجرة",
+    "it": "Tassista"
+  },
+  {
+    "en": "Teacher",
+    "fr": "Enseignant",
+    "es": "Profesor",
+    "ar": "معلم",
+    "it": "Insegnante"
+  },
+  {
+    "en": "Technical Writer",
+    "fr": "Rédacteur technique",
+    "es": "Redactor técnico",
+    "ar": "كاتب فني",
+    "it": "Scrittore tecnico"
+  },
+  {
+    "en": "Technician",
+    "fr": "Technicien",
+    "es": "Técnico",
+    "ar": "فني",
+    "it": "Tecnico"
+  },
+  {
+    "en": "Therapist",
+    "fr": "Thérapeute",
+    "es": "Terapeuta",
+    "ar": "أخصائي علاج",
+    "it": "Terapeuta"
+  },
+  {
+    "en": "Tour Guide",
+    "fr": "Guide touristique",
+    "es": "Guía turístico",
+    "ar": "مرشد سياحي",
+    "it": "Guida turistica"
+  },
+  {
+    "en": "Translator",
+    "fr": "Traducteur",
+    "es": "Traductor",
+    "ar": "مترجم",
+    "it": "Traduttore"
+  },
+  {
+    "en": "Travel Agent",
+    "fr": "Agent de voyage",
+    "es": "Agente de viajes",
+    "ar": "وكيل سفر",
+    "it": "Agente di viaggio"
+  },
+  {
+    "en": "Truck Driver",
+    "fr": "Chauffeur de camion",
+    "es": "Conductor de camiones",
+    "ar": "سائق شاحنة",
+    "it": "Camionista"
+  },
+  {
+    "en": "Undertaker",
+    "fr": "Pompes funèbres",
+    "es": "Funerario",
+    "ar": "العامل بدفن الموتى",
+    "it": "Impresario di pompe funebri"
+  },
+  {
+    "en": "Urban Planner",
+    "fr": "Urbaniste",
+    "es": "Planificador urbano",
+    "ar": "مخطط حضري",
+    "it": "Pianificatore urbano"
+  },
+  {
+    "en": "Urologist",
+    "fr": "Urologue",
+    "es": "Urólogo",
+    "ar": "طبيب مسالك بولية",
+    "it": "Urologo"
+  },
+  {
+    "en": "Vegan Chef",
+    "fr": "Chef végétalien",
+    "es": "Chef vegano",
+    "ar": "طاهي نباتي",
+    "it": "Chef vegano"
+  },
+  {
+    "en": "Veterinarian",
+    "fr": "Vétérinaire",
+    "es": "Veterinario",
+    "ar": "طبيب بيطري",
+    "it": "Veterinario"
+  },
+  {
+    "en": "Video Editor",
+    "fr": "Monteur vidéo",
+    "es": "Editor de video",
+    "ar": "محرر فيديو",
+    "it": "Montatore video"
+  },
+  {
+    "en": "Virologist",
+    "fr": "Virologue",
+    "es": "Virologista",
+    "ar": "فيروسيولوجي",
+    "it": "Virologo"
+  },
+  {
+    "en": "Waiter/Waitress",
+    "fr": "Serveur/Serveuse",
+    "es": "Camarero/Camarera",
+    "ar": "نادل/نادلة",
+    "it": "Cameriere/Cameriera"
+  },
+  {
+    "en": "Web Developer",
+    "fr": "Développeur web",
+    "es": "Desarrollador web",
+    "ar": "مطور ويب",
+    "it": "Sviluppatore web"
+  },
+  {
+    "en": "Wedding Planner",
+    "fr": "Organisateur de mariage",
+    "es": "Organizador de bodas",
+    "ar": "مخطط حفلات الزفاف",
+    "it": "Organizzatore di matrimoni"
+  },
+  {
+    "en": "Welder",
+    "fr": "Soudeur",
+    "es": "Soldador",
+    "ar": "لحام",
+    "it": "Saldatore"
+  },
+  {
+    "en": "Writer",
+    "fr": "Écrivain",
+    "es": "Escritor",
+    "ar": "كاتب",
+    "it": "Scrittore"
+  },
+  {
+    "en": "X-ray Technician",
+    "fr": "Technicien en radiographie",
+    "es": "Técnico de rayos X",
+    "ar": "فني أشعة",
+    "it": "Tecnico radiologo"
+  },
+  {
+    "en": "Yoga Instructor",
+    "fr": "Instructeur de yoga",
+    "es": "Instructor de yoga",
+    "ar": "مدرب يوغا",
+    "it": "Istruttore di yoga"
+  },
+  {
+    "en": "Zoologist",
+    "fr": "Zoologiste",
+    "es": "Zoólogo",
+    "ar": "عالِم حَيوَانات",
+    "it": "Zoologo"
+  },
+  {
+    "en": "Student",
+    "fr": "Étudiant",
+    "es": "Estudiante",
+    "ar": "طالب",
+    "it": "Studente"
+  },
+  {
+    "en": "Unemployed",
+    "fr": "Sans emploi",
+    "es": "Desempleado",
+    "ar": "بلا عمل",
+    "it": "Disoccupato"
+  },
+  {
+    "en": "Self-Employed",
+    "fr": "Travailleur indépendant",
+    "es": "Trabajador por cuenta propia",
+    "ar": "حرفي ذاتي",
+    "it": "Lavoratore autonomo"
+  },
+  {
+    "en": "Other",
+    "fr": "Autre",
+    "es": "Otro",
+    "ar": "آخر",
+    "it": "Altro"
   }
 ]
