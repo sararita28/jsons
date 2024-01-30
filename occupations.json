@@ -41,4 +41,116 @@
     "ar": "مراقب جوي",
     "it": "Controllore del traffico aereo"
   },
+  {
+    "en": "Aircraft Mechanic",
+    "fr": "Mécanicien d'avion",
+    "es": "Mecánico de aeronaves",
+    "ar": "ميكانيكي طائرات",
+    "it": "Meccanico di aerei"
+  },
+  {
+    "en": "Airline Pilot",
+    "fr": "Pilote de ligne",
+    "es": "Piloto de aerolínea",
+    "ar": "طيار خطوط جوية",
+    "it": "Pilota di linea"
+  },
+  {
+    "en": "Animator",
+    "fr": "Animateur",
+    "es": "Animador",
+    "ar": "محرك",
+    "it": "Animatore"
+  },
+  {
+    "en": "Archaeologist",
+    "fr": "Archéologue",
+    "es": "Arqueólogo",
+    "ar": "عالم الآثار",
+    "it": "Archeologo"
+  },
+  {
+    "en": "Architect",
+    "fr": "Architecte",
+    "es": "Arquitecto",
+    "ar": "مهندس معماري",
+    "it": "Architetto"
+  },
+  {
+    "en": "Archivist",
+    "fr": "Archiviste",
+    "es": "Archivero",
+    "ar": "أمين الأرشيف",
+    "it": "Archivista"
+  },
+  {
+    "en": "Astronomer",
+    "fr": "Astronome",
+    "es": "Astrónomo",
+    "ar": "فلكي",
+    "it": "Astronomo"
+  },
+  {
+    "en": "Athlete",
+    "fr": "Athlète",
+    "es": "Atleta",
+    "ar": "رياضي",
+    "it": "Atleta"
+  },
+  {
+    "en": "Audiologist",
+    "fr": "Audiologiste",
+    "es": "Audiólogo",
+    "ar": "أخصائي سمع",
+    "it": "Audiologo"
+  },
+  {
+    "en": "Author",
+    "fr": "Auteur",
+    "es": "Autor",
+    "ar": "مؤلف",
+    "it": "Autore"
+  },
+  {
+    "en": "Baker",
+    "fr": "Boulanger",
+    "es": "Panadero",
+    "ar": "خباز",
+    "it": "Panettiere"
+  },
+  {
+    "en": "Banker",
+    "fr": "Banquier",
+    "es": "Banquero",
+    "ar": "مصرفي",
+    "it": "Banchiere"
+  },
+  {
+    "en": "Barista",
+    "fr": "Barista",
+    "es": "Barista",
+    "ar": "باريستا",
+    "it": "Barista"
+  },
+  {
+    "en": "Bartender",
+    "fr": "Barman",
+    "es": "Camarero",
+    "ar": "نادل",
+    "it": "Barman"
+  },
+ {
+    "en": "Biochemist",
+    "fr": "Biochimiste",
+    "es": "Bioquímico",
+    "ar": "عالم الأحياء الكيميائي",
+    "it": "Biochimico"
+  },
+  {
+    "en": "Biologist",
+    "fr": "Biologiste",
+    "es": "Biólogo",
+    "ar": "عالم الأحياء",
+    "it": "Biologo"
+  }
 ]
