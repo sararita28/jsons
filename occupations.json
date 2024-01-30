@@ -13,10 +13,34 @@
     "ar": "ممثل",
     "it": "Attore"
   },
-"Actuary",
-"Administrator",
-"Advertising Executive",
-"Air Traffic Controller",
+  {
+    "en": "Actuary",
+    "fr": "Actuaire",
+    "es": "Actuario",
+    "ar": "خبير اكتواري",
+    "it": "Attuario"
+  },
+  {
+    "en": "Administrator",
+    "fr": "Administrateur",
+    "es": "Administrador",
+    "ar": "إداري",
+    "it": "Amministratore"
+  },
+ {
+    "en": "Advertising Executive",
+    "fr": "Cadre en publicité",
+    "es": "Ejecutivo de publicidad",
+    "ar": "تنفيذي الإعلانات",
+    "it": "Dirigente pubblicitario"
+  },
+  {
+    "en": "Air Traffic Controller",
+    "fr": "Contrôleur aérien",
+    "es": "Controlador de tráfico aéreo",
+    "ar": "مراقب جوي",
+    "it": "Controllore del traffico aereo"
+  },
 "Aircraft Mechanic",
 "Airline Pilot",
 "Animator",
