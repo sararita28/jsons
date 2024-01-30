@@ -1,6 +1,18 @@
 [
-"Accountant",
-"Actor",
+  {
+    "en": "Accountant",
+    "fr": "Comptable",
+    "es": "Contador",
+    "ar": "محاسب",
+    "it": "Contabile"
+  },
+  {
+    "en": "Actor",
+    "fr": "Acteur",
+    "es": "Actor",
+    "ar": "ممثل",
+    "it": "Attore"
+  },
 "Actuary",
 "Administrator",
 "Advertising Executive",
